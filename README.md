@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @thegreatluna8713
+- 👋 Hi, I’m @sailorpepe_eth
 - 👀 I’m interested in 3d modeling.
 - 🌱 I’m currently learning Human Resource Management. 
 - 💞️ I’m looking to collaborate on Decentraland
-- 📫 How to reach me gakhiboutique@gmail.com
+- 📫 How to reach me kobumining@gmail.com
 
 <!---
 thegreatluna8713/thegreatluna8713 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
